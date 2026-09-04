@@ -1,4 +1,4 @@
-# [Your Name] — Security & IT Portfolio
+# [Akio Ouchi] — Security & IT Portfolio
 
 A collection of hands-on projects from my self-study in cybersecurity and digital forensics. Each project has its own folder with a detailed write-up.
 
@@ -14,6 +14,6 @@ A collection of hands-on projects from my self-study in cybersecurity and digita
 
 ## About
 
-I'm currently self-studying [cybersecurity / digital forensics / your focus area — fill in], building practical, hands-on projects to develop skills in [areas of interest, e.g., digital forensics, incident response, security analysis].
+I'm currently self-studying cybersecurity and the Security+, building practical, hands-on projects to develop skills in digital forensics, incident & threat response, security analysis and risk governance.
 
-**Contact:** [LinkedIn] · [Email] · [Other links]
+**Contact:** [www.linkedin.com/in/akio-ouchi-086620304] · [akioouchi0079@gmail.com] 
